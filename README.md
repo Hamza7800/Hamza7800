@@ -77,7 +77,7 @@ Full-stack marketplace where independent vendors manage their own storefronts, p
 
 ---
 
-### [Flow Desk](https://flowdesk.vercel.app/) — Project Management Tool
+### [Flow Desk](https://flow-desk-app.vercel.app/) — Project Management Tool
 
 Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-based access control.
 
