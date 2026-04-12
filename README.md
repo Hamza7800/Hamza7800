@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm a full-stack developer with a CS degree and 1–2 years of hands-on experience building and shipping real products. My stack is centered around **Next.js and TypeScript** on both ends — from database schema to UI. I enjoy owning features end-to-end and taking a product from idea to something actually shipped.
+I build full-stack products with Next.js and TypeScript, from database schema to UI, and I like owning features end to end.
 
 ---
 
@@ -32,8 +32,6 @@ I'm a full-stack developer with a CS degree and 1–2 years of hands-on experien
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-<!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) -->
 
 **Backend & Database**
 
@@ -114,14 +112,4 @@ Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-base
 
 ## 📬 Get In Touch
 
-<!-- I'm open to remote freelance work and full-time opportunities. If you're building something and need a developer who can own features end-to-end — let's talk. -->
-
 **hamzakhan12777@gmail.com**
-
-<!-- --- -->
-
-<!-- <div align="center">
-
-*Building in public from Pakistan 🇵🇰*
-
-</div> -->
