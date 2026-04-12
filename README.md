@@ -32,7 +32,8 @@ I'm a full-stack developer with a CS degree and 1–2 years of hands-on experien
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) -->
 
 **Backend & Database**
 
@@ -44,9 +45,20 @@ I'm a full-stack developer with a CS degree and 1–2 years of hands-on experien
 
 **Auth, Payments & Tooling**
 
+![Better Auth](https://img.shields.io/badge/BetterAuth-000000?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Forms & Validation**
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+**UI & Styling**
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat-square)
 
 ---
 
@@ -54,7 +66,7 @@ I'm a full-stack developer with a CS degree and 1–2 years of hands-on experien
 
 ### [Market Flow](https://marketflowapp.vercel.app/) — Multi-Vendor Marketplace
 
- Full-stack marketplace where independent vendors manage their own storefronts, products, and payouts under one platform.
+Full-stack marketplace where independent vendors manage their own storefronts, products, and payouts under one platform.
 
 - **Stripe Connect** — automatic multi-vendor payment splitting via webhooks
 - **Optimistic updates** — cart mutations with React Query rollback on failure
@@ -80,14 +92,6 @@ Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-base
 
 ## 📈 GitHub Stats
 
-<!--
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza7800&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza7800&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div> -->
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hamza7800&theme=default&hide_border=true)](https://git.io/streak-stats)
@@ -110,5 +114,14 @@ Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-base
 
 ## 📬 Get In Touch
 
+<!-- I'm open to remote freelance work and full-time opportunities. If you're building something and need a developer who can own features end-to-end — let's talk. -->
+
 **hamzakhan12777@gmail.com**
 
+<!-- --- -->
+
+<!-- <div align="center">
+
+*Building in public from Pakistan 🇵🇰*
+
+</div> -->
