@@ -103,9 +103,9 @@ Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-base
 | Goal                                             | Status         |
 | ------------------------------------------------ | -------------- |
 | 🌐 REST API design patterns & best practices     | 🔄 In progress |
-| 🔌 NestJS — deep dive into REST API architecture | 🔄 In progress |
-| ☸️ Kubernetes — orchestration basics             | 📋 Up next     |
-| 🐳 Docker — containerizing my projects           | 📋 Up next     |
+| 🔌 NestJS deep dive into REST API architecture | 🔄 In progress |
+| ☸️ Kubernetes orchestration basics             | 📋 Up next     |
+| 🐳 Docker containerizing my projects           | 📋 Up next     |
 | 🤖 Diving into AI/ML fundamentals                | 📋 Up next     |
 
 ---
