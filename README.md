@@ -1,14 +1,4 @@
 <div align="center">
-
-```
-██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗
-██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
-███████║███████║██╔████╔██║  ███╔╝ ███████║
-██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
-██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
 ### Full-Stack Developer · Next.js · TypeScript · PostgreSQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-farooq.vercel.app)
