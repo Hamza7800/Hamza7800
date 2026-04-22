@@ -1,5 +1,7 @@
 <div align="center">
-Full-Stack Developer · Next.js · TypeScript · PostgreSQL
+<p style="margin-bottom: 12px;">
+  Full-Stack Developer · Next.js · TypeScript · PostgreSQL
+</p>
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-farooq.vercel.app)
