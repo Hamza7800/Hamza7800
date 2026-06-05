@@ -79,18 +79,6 @@ Linear-inspired PM tool with org workspaces, drag-and-drop boards, and role-base
 
 `Next.js` `TypeScript` `Drizzle ORM` `Turso (SQLite)` `Better Auth` `React Query` `dnd-kit`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hamza7800&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 | Goal                                             | Status         |
